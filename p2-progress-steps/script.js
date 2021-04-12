@@ -36,7 +36,7 @@ next.addEventListener('click', () => {
     }
     update()
 
-    console.log(currActive)
+
 })
 
 prev.addEventListener('click', () => {
@@ -46,6 +46,4 @@ prev.addEventListener('click', () => {
         currActive = 1
     }
     update()
-
-    console.log(currActive)
 })
