@@ -1,5 +1,7 @@
-# project-1
-Expanding Cards
+# Daily Projects
+
+These are my daily projects. They consist of HTML, CSS and JavaScript.
+
+They are based on this course -> https://www.udemy.com/course/50-projects-50-days/
 
 
-This is a CSS and JS Expanding Cards project.
